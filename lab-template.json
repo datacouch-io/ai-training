@@ -175,8 +175,7 @@
                 "kind": "AIServices",
                 "properties": {
                   "customSubDomainName": "[parameters('customSubDomainName')]",
-                  "publicNetworkAccess": "Enabled",
-                  "restore": true
+                  "publicNetworkAccess": "Enabled"
                 }
               },
               {
